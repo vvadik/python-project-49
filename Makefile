@@ -16,4 +16,7 @@ publish:
 package-install:
 	python3 -m pip install dist/*.whl
 
-debug_publish: update build publish
+lint:
+	poetry run flake8 brain_games
+
+debug_publish: lint update build publish
