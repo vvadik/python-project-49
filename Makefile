@@ -1,3 +1,6 @@
+update:
+	poetry update
+
 install:
 	poetry install
 
@@ -12,3 +15,5 @@ publish:
 
 package-install:
 	python3 -m pip install dist/*.whl
+
+debug_publish: update build publish
