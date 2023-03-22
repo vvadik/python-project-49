@@ -19,4 +19,4 @@ package-install:
 lint:
 	poetry run flake8 brain_games
 
-debug_publish: lint update build publish
+all: lint install update build publish package-install
