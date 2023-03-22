@@ -6,3 +6,4 @@
 [[brain-even]](https://asciinema.org/a/eCS7MJ9rY2OZZ5bnhaVZiYUQD)  
 [[brain-calc]](https://asciinema.org/a/qLpPYtRJ2hLHYlUMseMKVAki2)  
 [[brain-gcd]](https://asciinema.org/a/K3KZAj2hAaJkv5Jh3Y1BIAlhP)  
+[[brain-progression]](https://asciinema.org/a/kYgiJ5SzeyHf2pigJmHFsubxE)  
