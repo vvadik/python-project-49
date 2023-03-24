@@ -3,6 +3,8 @@ import random
 LOWER_BOUND = 0
 HIGHER_BOUND = 1000
 
+RULE = 'Find the greatest common divisor of given numbers.'
+
 
 def get_correct(term_one, term_two):
     while term_one != 0 and term_two != 0:

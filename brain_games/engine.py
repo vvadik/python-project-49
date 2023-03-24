@@ -1,8 +1,12 @@
 import prompt
 
-from brain_games.cli import welcome_user
-
 ROUNDS = 3
+
+
+def welcome_user():
+    name = prompt.string('May I have your name? ')
+    print(f"Hello, {name}!")
+    return name
 
 
 def process(rule, current_game):

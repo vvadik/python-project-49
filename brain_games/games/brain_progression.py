@@ -3,6 +3,8 @@ import random
 LOWER_BOUND = 1
 HIGHER_BOUND = 1000
 
+RULE = 'What number is missing in the progression?'
+
 
 def brain_progression():
     progression_length = random.randint(5, 20)

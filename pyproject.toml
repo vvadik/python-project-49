@@ -4,6 +4,11 @@ version = "0.1.0"
 description = "brain games"
 authors = ["Verein Vadim <you@example.com>"]
 readme = "README.md"
+classifiers = [
+    "Topic :: Software Development :: Build Tools",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Software Development :: Libraries :: Code Quality"
+]
 packages = [
   { include = "brain_games" },
 ]

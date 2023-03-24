@@ -3,6 +3,8 @@ import random
 LOWER_BOUND = 0
 HIGHER_BOUND = 1000
 
+RULE = 'What is the result of the expression?'
+
 
 def get_correct(term_one, term_two, method):
     if method == "+":
